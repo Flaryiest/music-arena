@@ -1,1 +1,1 @@
-# music-arena
+# short-generator
